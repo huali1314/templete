@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "seaDog",
+    "texture": "effa29a0-d0ab-44d7-8cca-672590ea37f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      92
+    ]
+  }
+}

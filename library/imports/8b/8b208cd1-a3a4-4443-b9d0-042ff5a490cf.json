@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "foods.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "87d7d35a-8b34-4771-aa3a-a0757833a7a1"
+    },
+    "2": {
+      "__uuid__": "5a8be2c7-354f-4549-8988-46b87a275f4e"
+    },
+    "3": {
+      "__uuid__": "387c0c51-a96d-46d2-aa58-2ce08687d44a"
+    },
+    "4": {
+      "__uuid__": "a72d48ec-0b12-4d98-9d94-5902e27a4a7b"
+    },
+    "5": {
+      "__uuid__": "4abc5a9b-039e-498f-96fc-c7325bf68b33"
+    },
+    "6": {
+      "__uuid__": "3a4e0100-fed2-47c3-acc2-3c81991255c8"
+    },
+    "7": {
+      "__uuid__": "c84a052d-d874-4b4c-b6b6-9b8b337f04a2"
+    },
+    "8": {
+      "__uuid__": "7052b060-7058-4965-b9d9-00b5710e1dcd"
+    }
+  }
+}

@@ -1,0 +1,524 @@
+2019-02-05T07:20:39.218Z - normal: Load ~/.CocosCreator/settings.json
+2019-02-05T07:20:39.223Z - normal: checking language setting...
+2019-02-05T07:20:39.223Z - normal: Language: zh
+2019-02-05T07:20:40.346Z - success: protocol editor-framework registered
+2019-02-05T07:20:40.346Z - success: protocol app registered
+2019-02-05T07:20:40.346Z - success: protocol theme registered
+2019-02-05T07:20:40.347Z - success: protocol packages registered
+2019-02-05T07:20:40.347Z - success: protocol unpack registerred
+2019-02-05T07:20:40.347Z - success: protocol disable-commonjs registerred
+2019-02-05T07:20:40.895Z - normal: connected!
+2019-02-05T07:20:40.898Z - normal: Check project /data/test/cocosCar/PenguinRescue
+2019-02-05T07:20:40.900Z - normal: Initializing project /data/test/cocosCar/PenguinRescue
+2019-02-05T07:20:40.907Z - normal: Initializing Cocos2d
+2019-02-05T07:20:41.447Z - normal: Initializing Asset Database
+2019-02-05T07:20:41.506Z - success: protocol uuid registerred
+2019-02-05T07:20:41.506Z - success: protocol db registerred
+2019-02-05T07:20:41.507Z - success: protocol thumbnail registerred
+2019-02-05T07:20:41.507Z - normal: Loading editor/builtin packages
+2019-02-05T07:20:41.776Z - success: assets loaded
+2019-02-05T07:20:41.784Z - success: builder loaded
+2019-02-05T07:20:41.788Z - success: cocos-analytics loaded
+2019-02-05T07:20:41.797Z - success: console loaded
+2019-02-05T07:20:41.844Z - success: fb-instant-games loaded
+2019-02-05T07:20:41.853Z - success: hierarchy loaded
+2019-02-05T07:20:41.862Z - success: inspector loaded
+2019-02-05T07:20:41.865Z - success: keystore loaded
+2019-02-05T07:20:41.876Z - success: node-library loaded
+2019-02-05T07:20:41.879Z - success: package-asset loaded
+2019-02-05T07:20:41.883Z - success: preferences loaded
+2019-02-05T07:20:41.888Z - success: project-exporter loaded
+2019-02-05T07:20:41.915Z - success: project-importer loaded
+2019-02-05T07:20:41.919Z - success: project-settings loaded
+2019-02-05T07:20:41.924Z - success: ui-kit loaded
+2019-02-05T07:20:41.932Z - success: scene loaded
+2019-02-05T07:20:41.935Z - success: sprite-editor loaded
+2019-02-05T07:20:41.944Z - success: store loaded
+2019-02-05T07:20:41.957Z - success: timeline loaded
+2019-02-05T07:20:41.958Z - normal: Loading builtin packages
+2019-02-05T07:20:41.972Z - success: asset-db-debugger loaded
+2019-02-05T07:20:41.975Z - success: color-picker loaded
+2019-02-05T07:20:41.977Z - success: jsb-adapter loaded
+2019-02-05T07:20:41.987Z - success: package-manager loaded
+2019-02-05T07:20:41.989Z - success: qqplay-adapter loaded
+2019-02-05T07:20:41.999Z - success: sdkbox loaded
+2019-02-05T07:20:42.010Z - success: tester loaded
+2019-02-05T07:20:42.020Z - success: ui-grid loaded
+2019-02-05T07:20:42.027Z - success: ui-kit-preview-extra loaded
+2019-02-05T07:20:42.036Z - success: ui-kit-preview loaded
+2019-02-05T07:20:42.043Z - success: ui-tree loaded
+2019-02-05T07:20:42.046Z - success: weapp-adapter loaded
+2019-02-05T07:20:43.980Z - normal: Loading packages
+2019-02-05T07:20:43.987Z - normal: Watching packages
+2019-02-05T07:20:44.075Z - normal: Run Application
+2019-02-05T07:20:45.277Z - success: preview server running at http://localhost:7456
+2019-02-05T07:20:56.243Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 775.00
+2019-02-05T07:20:56.256Z - normal: Simulator: FRAME SCALE = 1.00
+2019-02-05T07:20:56.267Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-02-05T07:20:56.403Z - normal: Simulator: 
+2019-02-05T07:20:56.404Z - normal: Simulator: {
+2019-02-05T07:20:56.405Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-02-05T07:20:56.405Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-02-05T07:20:56.406Z - normal: Simulator: 	cocos2d.x.version: 1.10.3
+2019-02-05T07:20:56.407Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2019-02-05T07:20:56.407Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-02-05T07:20:56.408Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 6000
+2019-02-05T07:20:56.410Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2019-02-05T07:20:56.414Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-02-05T07:20:56.416Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-02-05T07:20:56.418Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-02-05T07:20:56.418Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2019-02-05T07:20:56.419Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-02-05T07:20:56.419Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-02-05T07:20:56.420Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-02-05T07:20:56.421Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-02-05T07:20:56.422Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2019-02-05T07:20:56.422Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2019-02-05T07:20:56.423Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-02-05T07:20:56.423Z - normal: Simulator: }
+2019-02-05T07:20:56.424Z - normal: Simulator: 
+2019-02-05T07:20:56.424Z - normal: Simulator: 
+2019-02-05T07:20:56.424Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2019-02-05T07:20:56.447Z - normal: Simulator: Project Config:
+2019-02-05T07:20:56.448Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2019-02-05T07:20:56.449Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-02-05T07:20:56.449Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-02-05T07:20:56.449Z - normal: Simulator:     frame size: 960 x 640
+2019-02-05T07:20:56.451Z - normal: Simulator:     frame scale: 1.00
+2019-02-05T07:20:56.451Z - normal: Simulator:     show console: NO
+2019-02-05T07:20:56.452Z - normal: Simulator:     write debug log: NO ()
+2019-02-05T07:20:56.454Z - normal: Simulator:     listen: 
+2019-02-05T07:20:56.454Z - normal: Simulator:     debugger: none
+2019-02-05T07:20:56.455Z - normal: Simulator:     add searching path:
+2019-02-05T07:20:56.458Z - normal: Simulator: 
+2019-02-05T07:20:56.458Z - normal: Simulator: 
+2019-02-05T07:20:56.459Z - normal: Simulator: 
+2019-02-05T07:20:56.460Z - normal: Simulator: ------------------------------------------------
+2019-02-05T07:20:56.460Z - normal: Simulator: LOAD Js FILE: main.js
+2019-02-05T07:20:56.461Z - normal: Simulator: ------------------------------------------------
+2019-02-05T07:20:56.461Z - normal: Simulator: Initializing JavaScriptCore 
+2019-02-05T07:20:57.132Z - normal: Simulator: iShow!
+2019-02-05T07:20:57.473Z - normal: Simulator: JS: InitScene: 9.958000000000084ms
+2019-02-05T07:20:57.473Z - normal: Simulator: JS: AutoRelease: 0.28900000000021464ms
+2019-02-05T07:20:57.474Z - normal: Simulator: JS: Destroy: 0.2799999999999727ms
+2019-02-05T07:20:57.474Z - normal: Simulator: JS: AttachPersist: 0.016000000000076398ms
+2019-02-05T07:20:57.543Z - normal: Simulator: JS: {"curLevel":0,"curSatiety":100,"curOxygen":15,"curStoredGrain":10,"curHp":100} ===========item=====
+2019-02-05T07:20:57.544Z - normal: Simulator: JS: {"diedInfo":[],"renascenceInfo":[]} ===========item=====
+2019-02-05T07:20:57.547Z - normal: Simulator: JS: Activate: 74.07299999999987ms
+2019-02-05T07:20:59.258Z - normal: Simulator: JS: LoadScene 80aa6202-1edc-4beb-8a2a-bd7090233aa6: 315.9180000000001ms
+2019-02-05T07:20:59.265Z - normal: Simulator: JS: InitScene: 6.686000000000149ms
+2019-02-05T07:20:59.269Z - normal: Simulator: JS: AutoRelease: 3.2020000000002256ms
+2019-02-05T07:20:59.278Z - normal: Simulator: JS: Destroy: 8.735999999999876ms
+2019-02-05T07:20:59.279Z - normal: Simulator: JS: AttachPersist: 0.3690000000001419ms
+2019-02-05T07:20:59.290Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-02-05T07:20:59.292Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-02-05T07:20:59.295Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-02-05T07:20:59.297Z - normal: Simulator: JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2019-02-05T07:20:59.316Z - normal: Simulator: JS: Activate: 37.039999999999964ms
+2019-02-05T07:20:59.325Z - normal: Simulator: JS: {"curLevel":0,"curSatiety":100,"curOxygen":15,"curStoredGrain":10,"curHp":100} ===========item=====
+2019-02-05T07:21:01.542Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:21:27.328Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:27.960Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:29.645Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:29.645Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:29.645Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:29.646Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:39.028Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:39.261Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:39.299Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:39.311Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:39.977Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:39.978Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:42.062Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:42.064Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:42.064Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:42.065Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:45.528Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:21:47.630Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:21:47.927Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:21:47.928Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:47.928Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:21:47.944Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:22:12.695Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:22:12.695Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:22:21.714Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:22:21.714Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:22:52.032Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:22:54.316Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:22:54.732Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:23:16.683Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:23:30.752Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:23:35.137Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:23:46.370Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:23:53.153Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:00.087Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:01.505Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:01.738Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:24:01.738Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:04.437Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:06.304Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:12.737Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:17.555Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:29.605Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:40.489Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:41.440Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:41.441Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:41.640Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:46.775Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:48.157Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:24:48.190Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:48.191Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:48.691Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:49.274Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:24:49.308Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:49.308Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:49.591Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:49.858Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:24:49.923Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:49.924Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:50.291Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:24:50.390Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:50.391Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:50.424Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:52.525Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:52.525Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:52.792Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:24:54.575Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:24:55.840Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:58.824Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:24:59.158Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:24:59.158Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:24:59.176Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.144Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.459Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.677Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.758Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.825Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.858Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.909Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:01.975Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:02.127Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:02.192Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:02.275Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:25:02.324Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:03.308Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:03.325Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:07.493Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:08.509Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:09.042Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:10.058Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:10.091Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:10.142Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:10.159Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:10.159Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:10.225Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:10.458Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:25:15.442Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:25:15.445Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:25:16.892Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:25:16.893Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:25:17.525Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:25:17.525Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:25:23.360Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:23.361Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:23.361Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:23.362Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:23.610Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:23.610Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:23.611Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:23.611Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:31.027Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:31.209Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:31.310Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:31.310Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:31.443Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:25:33.661Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:33.810Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:33.860Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:34.876Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:34.993Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:35.277Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:35.677Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:35.793Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:35.827Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:25:43.277Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:51.278Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:25:54.511Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:25:54.561Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:25:55.294Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:25:55.928Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:25:56.728Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:25:59.278Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:26:04.214Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:26:04.214Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:26:04.215Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:26:04.461Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:26:06.413Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:26:07.280Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:26:11.998Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:26:12.014Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:26:12.015Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:26:12.016Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:26:27.987Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:26:37.406Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:26:40.040Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:26:46.024Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:26:46.042Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:26:48.074Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:26:48.325Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:26:51.340Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:26:57.191Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:26:58.860Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:27:01.109Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:01.109Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:01.792Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:01.792Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:02.059Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:02.059Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:02.326Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:02.326Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:02.543Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:02.543Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:02.726Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:02.727Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:02.892Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:02.892Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:03.075Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:03.076Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:03.258Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:03.259Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:03.459Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:03.459Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:03.660Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:03.660Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:03.858Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:03.859Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:07.043Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:27:08.009Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:11.293Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:11.293Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:11.593Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:11.593Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:11.827Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:11.827Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:12.060Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:12.060Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:14.928Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:27:14.928Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:27:15.161Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:27:15.943Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:19.110Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:19.111Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:19.327Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:27:19.327Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:27:22.262Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:27:22.528Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:27:25.744Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:25.827Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:27:29.345Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:27:30.312Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:27:31.611Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:37.562Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:40.579Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:46.796Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:51.132Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:27:59.614Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.164Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.364Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.549Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.681Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.748Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.782Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.864Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:00.931Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:01.115Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:01.248Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:28:01.649Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:28:01.682Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:02.013Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:28:03.564Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:28:03.864Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:10.200Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:28:10.200Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:10.599Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:28:10.599Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:10.814Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:28:12.965Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:28:15.964Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:28:16.065Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:28:16.065Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:16.665Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:28:16.665Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:24.683Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:25.182Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:28:25.183Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:25.732Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:28:29.233Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:28:29.982Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:28:29.982Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:28:30.232Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:28:30.232Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:28:38.917Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:28:47.050Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:28:58.001Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:28:58.184Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:29:03.884Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:29:13.002Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:29:13.819Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:19.019Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:19.021Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:19.336Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:19.336Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:19.639Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:19.639Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:19.919Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:19.919Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:20.219Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:20.219Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:20.502Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:20.503Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:20.769Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:20.770Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:21.069Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:21.069Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:21.335Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:21.337Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:21.619Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:21.620Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:21.869Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:21.869Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:22.119Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:22.120Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:22.386Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:22.386Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:22.655Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:22.657Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:22.936Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:22.936Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:23.153Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:23.154Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:23.386Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:23.386Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:23.669Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:29:23.670Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:29:28.038Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:30.286Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:29:30.853Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:29:42.554Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:29:42.555Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:42.705Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:29:42.888Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:43.254Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:29:49.641Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:29:49.642Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:49.644Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:29:49.645Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:49.939Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:29:49.940Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:49.940Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:29:49.941Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:29:58.157Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:29:58.172Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:03.057Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:03.256Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:03.306Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:03.306Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:10.706Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:30:11.690Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:11.690Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:12.358Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:12.523Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:12.556Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:15.306Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:15.542Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:15.542Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:15.542Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:15.543Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:19.674Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:19.674Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:21.144Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:21.144Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:21.145Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:21.145Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:24.041Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:30:34.374Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:34.376Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:34.623Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:34.624Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:34.874Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:34.875Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:35.108Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:35.109Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:35.841Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:35.841Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:36.092Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:36.092Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:36.291Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:36.291Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:36.507Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:36.508Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:36.707Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:36.708Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:39.307Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:30:39.342Z - normal: Simulator: JS: 1991 =============tag===
+2019-02-05T07:30:39.342Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:30:40.925Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:40.926Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:41.160Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:41.160Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:41.342Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:41.344Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:41.558Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:41.558Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:30:41.725Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:30:41.726Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:07.161Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:31:13.147Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:31:15.411Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:31:24.562Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:24.579Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.028Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.029Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.712Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.712Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.862Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.862Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.895Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.896Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:25.995Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:31:26.679Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:26.862Z - normal: Simulator: JS: 0 =============tag===
+2019-02-05T07:31:29.095Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:31:34.162Z - normal: Simulator: JS: _touchEndEvent======
+2019-02-05T07:31:37.412Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:37.413Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:37.647Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:37.647Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:37.878Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:37.879Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:38.132Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:38.132Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:38.378Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:38.379Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:38.611Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:38.612Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:38.845Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:38.846Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:39.095Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:39.096Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:39.479Z - normal: Simulator: JS: fire penguinAttack
+2019-02-05T07:31:39.480Z - normal: Simulator: JS: has own penguinAttack
+2019-02-05T07:31:45.948Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:31:48.977Z - normal: Simulator: JS: [object Object] =============otherRigidBody======
+2019-02-05T07:31:49.338Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-02-05T07:31:49.338Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 651
+2019-02-05T07:31:49.348Z - normal: Simulator: GC end ..., (Native -> JS map) count: 630
+2019-02-05T07:31:49.349Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 630
+2019-02-05T07:31:49.356Z - normal: Simulator: GC end ..., (Native -> JS map) count: 630
+2019-02-05T07:31:49.356Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 630
+2019-02-05T07:31:49.364Z - normal: Simulator: GC end ..., (Native -> JS map) count: 630
+2019-02-05T07:31:49.387Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2019-02-05T07:31:49.387Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2019-02-05T07:31:49.388Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2019-02-05T07:31:49.389Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-02-05T07:31:59.307Z - info: shutdown preview server
